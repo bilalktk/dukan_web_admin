@@ -1,16 +1,21 @@
-# dukan_web_admin
+# Dukan Web Admin Panel
 
-A new Flutter project.
+Welcome to the Dukan Web Admin Panel!
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+The Dukan Web Admin Panel serves as the control center for managing buyers and vendors, overseeing product categories, banners, and much more. It provides an intuitive interface for efficiently handling various aspects of the multi-vendor platform.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Vendor & Buyer Management**: Easily manage vendor and buyer profiles and activities.
+- **Product Category Upload**: Effortlessly upload and organize product categories.
+- **Banner Management**: Customize the platform's visual appeal by managing banners.
+- **Insightful Dashboard**: Get comprehensive insights through an intuitive dashboard.
+- **User-Friendly Interface**: Navigate and utilize features seamlessly.
+- **Efficient Control Tools**: Control product sizes and other essential settings.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Frontend**: Flutter & Dart for building the user interface
+- **Backend**: Firebase for database management and authentication
